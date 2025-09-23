@@ -15,7 +15,9 @@ Bienvenido a mi biblioteca de Proyectos, espero encuentres algo util.
             </td>
             <td width="25%" align="center">
                 <h2>Automatizadores</h2>
-                <p>Contenido de la segunda columna.</p>
+                <ul>
+                    <li>Scroll-automatico</li>
+                </ul>
             </td>
             <td width="25%" align="center">
                 <h2>Detectores</h2>
