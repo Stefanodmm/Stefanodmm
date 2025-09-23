@@ -20,7 +20,7 @@ Bienvenido a mi biblioteca de Proyectos, espero encuentres algo util.
             <td width="50%" align="center">
                 <h2>Detectores</h2>
                 <ul>
-                    <li></li>
+                    <li>Detector-de-posicion-de-mause-en-pantalla</li>
                 </ul>
             </td>
         </tr>
