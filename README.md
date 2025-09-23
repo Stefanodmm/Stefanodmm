@@ -4,17 +4,26 @@ SDM
 <h2 align="center">
 Bienvenido a mi biblioteca de Proyectos, espero encuentres algo util.
 </h2>
-<!--
-**Stefanodmm/Stefanodmm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<style>
+  .contenedor-flex {
+    display: flex;
+  }
 
-Here are some ideas to get you started:
+  .columna-flex {
+    flex: 1; /* Esto hace que cada columna ocupe el mismo espacio */
+    padding: 20px;
+    border: 1px solid #ccc;
+    margin: 5px;
+  }
+</style>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div class="contenedor-flex">
+  <div class="columna-flex">
+    <h3>Columna 1</h3>
+    <p>Este es el contenido de la primera columna.</p>
+  </div>
+  <div class="columna-flex">
+    <h3>Columna 2</h3>
+    <p>Este es el contenido de la segunda columna.</p>
+  </div>
+</div>
