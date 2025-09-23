@@ -16,7 +16,7 @@ Bienvenido a mi biblioteca de Proyectos, espero encuentres algo util.
             <td width="25%" align="center">
                 <h2>Automatizadores</h2>
                 <ul>
-                    <li>Scroll-automatico</li> <li>click-en-pantalla</li>
+                    <li>Scroll-automatico</li> <li>Click-en-pantalla</li> <li>Escribir-texto</li>
                 </ul>
             </td>
             <td width="25%" align="center">
