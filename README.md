@@ -9,11 +9,19 @@ Bienvenido a mi biblioteca de Proyectos, espero encuentres algo util.
         <tr>
             <td width="50%" align="center">
                 <h2>Trading</h2>
-                <p>Contenido de la primera columna.</p>
+                <ul>
+                    <li>VRVP-Trader</li> <li>RSI-Trader</li> <li>MACD-Trader</li> <li>Trader-Signs</li> <li>Bandas-de-Bolinger-Trader</li>
+                </ul>
             </td>
             <td width="50%" align="center">
                 <h2>Automatizadores</h2>
                 <p>Contenido de la segunda columna.</p>
+            </td>
+            <td width="50%" align="center">
+                <h2>Detectores</h2>
+                <ul>
+                    <li></li>
+                </ul>
             </td>
         </tr>
     </table>
