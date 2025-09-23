@@ -4,14 +4,17 @@ SDM
 <h2 align="center">
 Bienvenido a mi biblioteca de Proyectos, espero encuentres algo util.
 </h2>
-
-<div class="contenedor-flex">
-  <div class="columna-flex">
-    <h3>Columna 1</h3>
-    <p>Este es el contenido de la primera columna.</p>
-  </div>
-  <div class="columna-flex">
-    <h3>Columna 2</h3>
-    <p>Este es el contenido de la segunda columna.</p>
-  </div>
+<div align="center">
+    <table width="100%">
+        <tr>
+            <td width="50%" align="center">
+                <h2>Trading</h2>
+                <p>Contenido de la primera columna.</p>
+            </td>
+            <td width="50%" align="center">
+                <h2>Automatizadores</h2>
+                <p>Contenido de la segunda columna.</p>
+            </td>
+        </tr>
+    </table>
 </div>
