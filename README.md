@@ -1,7 +1,4 @@
 <div align="center">
-  <a href="https://github.com/Stefanodmm" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/59713106?v=4" width="150" height="150" alt="Avatar">
-  </a>
 
   # 👋 ¡Hola! Soy Stefano DMM
   
